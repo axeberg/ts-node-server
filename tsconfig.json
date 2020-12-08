@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "allowJs": false,
+    "lib": ["esnext"],
+    "module": "commonjs",
+    "outDir": "dist",
+    "strict": true,
+    "target": "es2018",
+    "types": ["node"],
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules"]
+}
